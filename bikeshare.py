@@ -207,6 +207,7 @@ def main():
         trip_duration_stats(df)
         user_stats(df)
         
+        # variable to print each 5 data rows
         current_iter = 0
         number_data = 5
         
