@@ -6,20 +6,23 @@
 
 ### Date created
 
-Include the date you created this project and README file.
+Created at: 26/11/2022
 
-### Project Title
-
-Replace the Project Title
+### Post your Work on GitHub
 
 ### Description
 
-Describe what your project is about and what it does
+This project use to submit work of Project 3 (Udacity Nanodegree). It include some file of Project 2.
 
 ### Files used
 
-Include the files used
+- bikeshare.py
+- chicago.csv
+- washington.csv
+- new_york_city.csv
+- Git Commands Document.pdf
 
 ### Credits
 
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+[Udacity starter repo.](https://github.com/udacity/pdsnd_github)
+[Git documentation.](https://git-scm.com/doc)
