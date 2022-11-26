@@ -207,6 +207,7 @@ def main():
         trip_duration_stats(df)
         user_stats(df)
         
+        # variable to print each 5 data rows
         current_iter = 0
         number_data = 5
         
@@ -221,6 +222,7 @@ def main():
 
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
+            print('Application turning off...')
             break
 
 
